@@ -1,0 +1,5 @@
+{
+  "name": "BDS Data Extractor",
+  "description": "Extracts and formats student data from WhatsApp conversations into a standardized CSV format using Gemini AI.",
+  "requestFramePermissions": []
+}
